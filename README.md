@@ -24,7 +24,7 @@
 * **Databases:** _PostgreSQL (SQL, ACID, Indexes), Redis_;
 * **Message Brokers:** _RabbitMQ_;
 * **Tools & DevOps:** _Docker, Docker Compose_;
-* **Testing:** _ Pytest, Mypy, Flake8_.
+* **Testing:** _Pytest, Mypy, Flake8._
 
 
 ## Profile
