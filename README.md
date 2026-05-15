@@ -33,7 +33,7 @@
 * **Education**: 3rd year CS student (Machine Learning & Data Processing);
 * **Location**: Voronezh, Russia;
 * **English**: B1 (Reading) / A2 (Speaking);
-* **Availability**: 25–35 hours per week;
+* **Availability**: 25–40 hours per week;
 * **Status**: Open to work.
 
 <div align="center">
