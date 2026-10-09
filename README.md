@@ -30,8 +30,8 @@
 
 ## Profile
 
-* **Education**: 3rd year CS student (Machine Learning & Data Processing);
-* **Location**: Voronezh, Russia;
+* **Education**: 4rd year CS student (Machine Learning & Data Processing);
+* **Location**: Voronezh, Russia // Minsk, Belarus;
 * **English**: B1 (Reading) / A2 (Speaking);
 * **Availability**: 25–40 hours per week;
 * **Status**: Open to work.
